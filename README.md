@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/react-18-1f4b43)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-1f4b43)
 
-> **风险提示**：LIVE 模式会动用真实资金。项目默认只跑 SIM。开启实盘前请自行评估策略、风控与网络环境，所有实盘后果由使用者自行承担。本项目不构成任何投资建议。
+> **风险提示**：LIVE 模式会动用真实资金，可能损失全部本金。项目默认只跑 SIM；历史回测与模拟结果不代表未来表现。本项目不构成投资建议，按 MIT 协议「按现状」提供。**使用前请完整阅读 [DISCLAIMER.md](DISCLAIMER.md)。**
 
 ## 功能
 
@@ -127,6 +127,7 @@ cd frontend && npm run build
 - [新手入门](docs/新手入门.md)
 - [情报交易](docs/情报交易.md)
 - [设计说明](DESIGN.md)
+- [免责声明](DISCLAIMER.md)
 
 ## 贡献
 
@@ -135,6 +136,10 @@ cd frontend && npm run build
 ## 安全
 
 请勿在 Issue 中粘贴 API Key、账号或持仓数据。漏洞与安全问题请按 [SECURITY.md](SECURITY.md) 私下反馈。
+
+## 免责声明
+
+本项目不构成投资建议，不保证第三方行情、资讯、LLM 与券商接口的准确性或可用性。LIVE 交易可能导致本金损失，所有交易决策及其后果由使用者自行承担；请自行确保使用行为符合当地法律法规与第三方服务条款。完整条款见 [DISCLAIMER.md](DISCLAIMER.md)。
 
 ## License
 
