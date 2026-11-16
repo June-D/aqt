@@ -1,0 +1,1 @@
+"""News → LLM → diversified execution."""
