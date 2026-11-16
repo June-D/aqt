@@ -18,8 +18,8 @@ __pycache__/
 htmlcov/
 
 # ---- Runtime data ----
-data/
-tmp/
+/data/
+/tmp/
 *.db
 *.sqlite3
 *.log
